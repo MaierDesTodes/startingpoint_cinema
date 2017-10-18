@@ -43,5 +43,5 @@ namespace StartingPoint
 			Console.WriteLine(statement);
 			Console.ReadLine();
 		}
-	}
+	} 
 }
